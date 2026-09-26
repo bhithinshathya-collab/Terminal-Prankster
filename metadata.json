@@ -1,0 +1,7 @@
+{
+  "name": "Hacker Terminal Prank",
+  "description": "A terminal simulator prank app to fool your friends into thinking you hacked security cameras and IoT devices with fake file extraction, audio countdowns, and roast reveals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
